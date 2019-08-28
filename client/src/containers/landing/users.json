@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "User1",
+    "roles": [
+      { "code": "admin", "name": "администратор" },
+      { "code": "support", "name": "поддержка" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "User2",
+    "roles": [
+      { "code": "admin", "name": "администратор" },
+      { "code": "support", "name": "поддержка" },
+      { "code": "system", "name": "системный" },
+      { "code": "user", "name": "пользователь" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "User3",
+    "roles": [{ "code": "user", "name": "пользователь" }]
+  },
+  {
+    "id": 4,
+    "name": "User4",
+    "roles": [
+      { "code": "support", "name": "поддержка" },
+      { "code": "system", "name": "системный" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "User5",
+    "roles": [
+      { "code": "support", "name": "поддержка" },
+      { "code": "user", "name": "пользователь" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "User6",
+    "roles": [
+      { "code": "admin", "name": "администратор" },
+      { "code": "system", "name": "системный" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "User7",
+    "roles": [{ "code": "admin", "name": "администратор" }]
+  },
+  {
+    "id": 8,
+    "name": "User8",
+    "roles": [
+      { "code": "admin", "name": "администратор" },
+      { "code": "support", "name": "поддержка" }
+    ]
+  }
+]
